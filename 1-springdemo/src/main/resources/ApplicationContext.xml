@@ -10,6 +10,10 @@
     http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
     ">
 
+    <bean id="myFortuneService"
+          class="com.example.demo.HappyFortuneService">
+    </bean>
     <bean id="myCoach" class="com.example.demo.TrackCoach">
+        <constructor-arg ref="myFortuneService" />
     </bean>
 </beans>

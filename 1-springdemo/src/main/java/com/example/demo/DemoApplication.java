@@ -11,11 +11,13 @@ public class DemoApplication {
 
 		System.out.println("Without IoC and beans");
 
-		Coach theCoach = new TrackCoach();
-		Coach theCoach2 = new BaseballCoach();
+		//BROKE WITH DEPENDENCY INJ.
 
-		System.out.println(theCoach.getDailyWorkout());
-		System.out.println(theCoach2.getDailyWorkout());
+		//Coach theCoach = new TrackCoach();
+		//Coach theCoach2 = new BaseballCoach();
+
+		//System.out.println(theCoach.getDailyWorkout());
+		//System.out.println(theCoach2.getDailyWorkout());
 	}
 
 }
