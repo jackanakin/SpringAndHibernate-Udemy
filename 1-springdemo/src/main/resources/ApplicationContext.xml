@@ -13,7 +13,14 @@
     <bean id="myFortuneService"
           class="com.example.demo.HappyFortuneService">
     </bean>
+
     <bean id="myCoach" class="com.example.demo.TrackCoach">
         <constructor-arg ref="myFortuneService" />
+    </bean>
+
+    <bean id="myCricketCoach"
+          class="com.example.demo.CricketCoach">
+
+        <property name="fortuneService" ref="myFortuneService" />
     </bean>
 </beans>
