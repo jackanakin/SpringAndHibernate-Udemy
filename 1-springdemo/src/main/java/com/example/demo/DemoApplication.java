@@ -9,6 +9,8 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 
+		System.out.println("Without IoC and beans");
+
 		Coach theCoach = new TrackCoach();
 		Coach theCoach2 = new BaseballCoach();
 
