@@ -6,3 +6,4 @@
 <p>6.HelloQualifierDependencyInjection: implemented Qualifier for Injection</p>
 <p>7.HelloQualifierDependencyInjection: properties file using Java annotations</p>
 <p>8.HelloScopeAnnotation: prototype scope with annotation</p>
+<p>9.HelloScopeAnnotation: implemented lifecycle with annotation</p>

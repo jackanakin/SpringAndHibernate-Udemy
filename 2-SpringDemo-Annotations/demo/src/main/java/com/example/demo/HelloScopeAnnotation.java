@@ -8,7 +8,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class HelloScopeAnnotation {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloScopeAnnotation.class, args);
 		System.out.println("Spring with @Scope annotation");
 
 		ClassPathXmlApplicationContext context =
