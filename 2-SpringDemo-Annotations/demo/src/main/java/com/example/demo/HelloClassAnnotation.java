@@ -9,7 +9,7 @@ public class HelloClassAnnotation {
 				new ClassPathXmlApplicationContext("applicationContext.xml");
 		
 		Coach theCoach = context.getBean("tennisCoach", Coach.class);
-		
+		System.out.println("Spring with annotations with default @Component name");
 		System.out.println(theCoach.getDailyWorkout());
 				
 		context.close();
