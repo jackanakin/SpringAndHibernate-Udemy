@@ -4,3 +4,4 @@
 <p>4.HelloClassAnnotation: implemented Setter injection with Autowired annotation</p>
 <p>5.HelloClassAnnotation:field, setter and constructor injection</p>
 <p>6.HelloQualifierDependencyInjection: implemented Qualifier for Injection</p>
+<p>7.HelloQualifierDependencyInjection: properties file using Java annotations</p>

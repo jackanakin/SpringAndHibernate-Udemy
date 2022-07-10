@@ -8,12 +8,14 @@ public class HelloQualifierDependencyInjection {
 
 		ClassPathXmlApplicationContext context =
 				new ClassPathXmlApplicationContext("ApplicationContext.xml");
-		
-		Coach theCoach = context.getBean("tennisCoach", Coach.class);
+
+		TennisCoach theCoach = context.getBean("tennisCoach", TennisCoach.class);
 		
 		System.out.println(theCoach.getDailyWorkout());
 		System.out.println(theCoach.getDailyFortune());
-				
+		System.out.println(theCoach.getEmail());
+		System.out.println(theCoach.getTeam());
+
 		context.close();
 	}
 
