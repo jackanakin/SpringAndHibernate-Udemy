@@ -11,7 +11,8 @@ public class HelloClassAnnotation {
 		Coach theCoach = context.getBean("tennisCoach", Coach.class);
 		System.out.println("Spring with annotations with default @Component name");
 		System.out.println(theCoach.getDailyWorkout());
-				
+		System.out.println(theCoach.getDailyFortune());
+
 		context.close();
 	}
 }
