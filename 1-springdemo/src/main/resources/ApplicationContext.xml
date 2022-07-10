@@ -22,5 +22,8 @@
           class="com.example.demo.CricketCoach">
 
         <property name="fortuneService" ref="myFortuneService" />
+        <!-- inject literal values -->
+        <property name="emailAddress" value="meumail@jk.com.br" />
+        <property name="team" value="Sunrisers Hyderabad" />
     </bean>
 </beans>
