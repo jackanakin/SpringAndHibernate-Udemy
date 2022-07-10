@@ -8,3 +8,4 @@
 <p>8.HelloScopeAnnotation: prototype scope with annotation</p>
 <p>9.HelloScopeAnnotation: implemented lifecycle with annotation</p>
 <p>10.HelloConfigAnnotation: config annotation instead XML ApplicationContext</p>
+<p>11.SwimJavaConfigDemoApp: Bean wrapper annotation</p>
