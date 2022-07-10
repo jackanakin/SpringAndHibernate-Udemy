@@ -13,8 +13,8 @@ public class HelloQualifierDependencyInjection {
 		
 		System.out.println(theCoach.getDailyWorkout());
 		System.out.println(theCoach.getDailyFortune());
-		System.out.println(theCoach.getEmail());
-		System.out.println(theCoach.getTeam());
+		//System.out.println(theCoach.getEmail());
+		//System.out.println(theCoach.getTeam());
 
 		context.close();
 	}

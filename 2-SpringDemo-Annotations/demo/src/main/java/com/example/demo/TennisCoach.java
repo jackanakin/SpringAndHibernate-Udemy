@@ -36,7 +36,7 @@ public class TennisCoach implements Coach {
 		System.out.println(">> TennisCoach: inside setFortuneService() method");
 		this.fortuneService = theFortuneService;
 	}*/
-
+/*
 	@Value("${foo.email}")
 	private String email;
 
@@ -58,7 +58,7 @@ public class TennisCoach implements Coach {
 
 	@Value("${foo.team}")
 	private String team;
-
+*/
 	@Override
 	public String getDailyWorkout() {
 		return "Practice your backhand volley";
