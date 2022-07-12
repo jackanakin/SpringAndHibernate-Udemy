@@ -2,4 +2,4 @@
 
 1. SpringDemo with XML Configuration: Inversion of Control (IoC), Dependency Injection, Bean Scopes and Lifecycle
 2. SpringDemo with Annotation Configuration: Inversion of Control (IoC), Dependency Injection, Bean Scopes and Lifecycle
-3. SpringMVC: web app with Controllers and Views, Request Params and RequestMappings, FormTags and Data Binding
+3. SpringMVC: web app with Controllers and Views, Request Params and RequestMappings, FormTags and Data Binding, Hibernate Validator
