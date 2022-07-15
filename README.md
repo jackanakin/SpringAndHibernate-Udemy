@@ -6,3 +6,4 @@
 4. SpringDemo-Hibernate: app with hibernate connection
 5. SpringDemo-OneToOne: OneToOne and Bi-Direactional relationship CRUD operations including CASCADE types
 6. SpringDemo-OneToMany: OneToMany and Bi-Direactional relationship CRUD operations including CASCADE types
+7. SpringDemo-EagerLazy: Eager and Lazy loading, solving loading issues when using Lazy loading.
