@@ -8,3 +8,4 @@
 6. SpringDemo-OneToManyBiDirectional: OneToMany and Bi-Direactional relationship CRUD operations including CASCADE types
 7. SpringDemo-EagerLazy: Eager and Lazy loading, solving loading issues when using Lazy loading.
 8. SpringDemo-OneToManyUniDirectional: OneToMany and Uni-Direactional relationship CRUD operations
+9. SpringDemo-ManyToMany: ManyToMany relationship CRUD operations
