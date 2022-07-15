@@ -4,4 +4,5 @@
 2. SpringDemo-Annotations: Inversion of Control (IoC), Dependency Injection, Bean Scopes and Lifecycle
 3. SpringDemo-MVC: web app with Controllers and Views, Request Params and RequestMappings, FormTags and Data Binding, Hibernate Validator
 4. SpringDemo-Hibernate: app with hibernate connection
-4. SpringDemo-OneToOne: OneToOne and Bi-Direactional relationship CRUD operations including CASCADE types
+5. SpringDemo-OneToOne: OneToOne and Bi-Direactional relationship CRUD operations including CASCADE types
+6. SpringDemo-OneToMany: OneToMany and Bi-Direactional relationship CRUD operations including CASCADE types
