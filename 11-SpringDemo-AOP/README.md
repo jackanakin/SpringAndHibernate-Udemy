@@ -1,1 +1,2 @@
-<p>1.AOPBeforeDemo: run before method is called</p>
+<p>1.AOPDemo: run Before method</p>
+<p>2.AOPDemo: added Pointcut method</p>
