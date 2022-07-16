@@ -5,9 +5,23 @@ import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
-@Aspect
+//@Aspect
 @Component
 public class MyDemoLoggingAspect {
+	@Pointcut("execution(* com.example.demo.dao.*.*(..))")
+	private void forDaoPackage() {}
+
+	// create pointcut for getter methods
+	@Pointcut("execution(* com.example.demo.dao.*.get*(..))")
+	private void getter() {}
+
+	// create pointcut for setter methods
+	@Pointcut("execution(* com.example.demo.dao.*.set*(..))")
+	private void setter() {}
+
+	// create pointcut: include package ... exclude getter/setter
+	@Pointcut("forDaoPackage() && !(getter() || setter())")
+	private void forDaoPackageNoGetterSetter() {}
 	@Pointcut("execution(* com.example.demo.dao.AccountDAO.*(..))")
 	private void forAccountDaoPackage() {
 	}
