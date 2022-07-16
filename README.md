@@ -13,4 +13,4 @@
 10. SpringMVC-WebApp: MVC web app with database connection
 ![alt text](https://github.com/jackanakin/java_spring-udemy/blob/main/10-SpringMVC-WebApp/result.png?raw=true)
 11. SpringDemo-AOP: Aspect Oriented Programming with Before, Pointcut Declarations and combined expressions
-12. SpringDemo-AOPOrder: ordering execution of AOP methods
+12. SpringDemo-AOPOrder: read methods parameters and ordering execution of AOP methods
