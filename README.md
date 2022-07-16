@@ -1,5 +1,6 @@
 # Projects developed in Spring & Hibernate for Beginners (includes Spring Boot) course
-- https://www.udemy.com/course/spring-hibernate-tutorial/
+> Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate
+> https://www.udemy.com/course/spring-hibernate-tutorial/
 
 1. SpringDemo-XML: Inversion of Control (IoC), Dependency Injection, Bean Scopes and Lifecycle
 2. SpringDemo-Annotations: Inversion of Control (IoC), Dependency Injection, Bean Scopes and Lifecycle
