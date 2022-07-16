@@ -1,0 +1,1 @@
+Basic MVC web app with spring security authentication

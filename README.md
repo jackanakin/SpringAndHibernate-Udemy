@@ -16,4 +16,5 @@
 11. SpringDemo-AOP: Aspect Oriented Programming with Before, Pointcut Declarations and combined expressions
 12. SpringDemo-AOPOrder: read methods parameters and ordering execution of AOP methods
 13. SpringDemo-AOPAfter: after returning AOP with data modification, AfterThrowing annotation to catch exceptions and After annotation
-14. 14-SpringDemo-AOPAround: intercept method call and execute before and after job, handling exceptions with Around annotation to catch exceptions
+14. SpringDemo-AOPAround: intercept method call and execute before and after job, handling exceptions with Around annotation to catch exceptions
+15. SpringSecurity: simple MVC web app with spring security authentication
