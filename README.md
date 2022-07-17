@@ -23,3 +23,5 @@
 ### 17. SpringRest-CRUD: API with API Design Best Practices GET/POST/PUT/DELETE
 ![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/17-SpringREST-CRUD/result.png?raw=true)
 ### 18. SpringJPA-CRUD: SpringBoot with Data JPA Repository
+>- public interface EntityRepository extends JpaRepository<Entity, Integer> //thats all
+### 19. SpringData-HATEAOS: auto expose CRUD endpoints in REST API
