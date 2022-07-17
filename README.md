@@ -19,3 +19,4 @@
 ### 14. SpringDemo-AOPAround: intercept method call and execute before and after job, handling exceptions with Around annotation to catch exceptions
 ### 15. SpringSecurity: simple MVC web app with spring security authentication, CSRF, User Roles, Restrict Access Based on User Roles with database,  password encryption with bcrypt
 ![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/15-SpringSecurity/result2.png?raw=true)
+### 16. SpringRest: Web app with Spring REST
