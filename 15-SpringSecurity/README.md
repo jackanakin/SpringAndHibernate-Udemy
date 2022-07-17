@@ -6,3 +6,4 @@
 ![alt text](https://raw.githubusercontent.com/jackanakin/SpringAndHibernate-Udemy/main/15-SpringSecurity/result2.png)
 <p>5. Manually added CSRF Token to login-form<p>
 <p>6. Displaying user roles<p>
+<p>7. Restrict Access Based on User Roles</p>
