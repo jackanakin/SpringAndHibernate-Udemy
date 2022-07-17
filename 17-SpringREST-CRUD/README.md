@@ -1,1 +1,2 @@
-### 1. SpringRest-CRUD: API with API Design Best Practices, implemented LIST http://localhost:8080/spring-crm-rest/api/customers
+### 1. SpringRest-CRUD: API with Design Best Practices, implemented all API methods GET/POST/PUT/DELETE
+![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/17-SpringREST-CRUD/result.png?raw=true)
