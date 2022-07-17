@@ -26,3 +26,4 @@
 >- public interface EntityRepository extends JpaRepository<Entity, Integer> //thats all
 ### 19. SpringData-HATEAOS: auto expose CRUD endpoints in REST API
 ### 20. Thymeleaf: hello world web app with Thymeleaf
+### 21. Thymeleaf-JPA: thymeleaf Web App with Spring and JPA
