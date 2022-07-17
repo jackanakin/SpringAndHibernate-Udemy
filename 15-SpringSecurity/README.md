@@ -1,11 +1,11 @@
-<p>1. Basic MVC web app with spring security authentication</p>
+### 1. Basic MVC web app with spring security authentication
 ![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/15-SpringSecurity/result.png?raw=true)
-<p>2. Refactored code into separate jsp view for login-page</p>
-<p>3. Added CSS styles to new login page</p>
-<p>4. Added logout feature</p>
+### 2. Refactored code into separate jsp view for login-page
+### 3. Added CSS styles to new login page
 ![alt text](https://raw.githubusercontent.com/jackanakin/SpringAndHibernate-Udemy/main/15-SpringSecurity/result2.png)
-<p>5. Manually added CSRF Token to login-form<p>
-<p>6. Displaying user roles<p>
-<p>7. Restrict Access Based on User Roles</p>
-<p>8. Read users and roles from database</p>
-<p>9. Password encryption with bcrypt<p>
+### 4. Added logout feature
+### 5. Manually added CSRF Token to login-form
+### 6. Displaying user roles
+### 7. Restrict Access Based on User Roles
+### 8. Read users and roles from database
+### 9. Password encryption with bcrypt
