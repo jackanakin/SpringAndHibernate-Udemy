@@ -8,3 +8,4 @@
 <p>6. Displaying user roles<p>
 <p>7. Restrict Access Based on User Roles</p>
 <p>8. Read users and roles from database</p>
+<p>9. Password encryption with bcrypt<p>
