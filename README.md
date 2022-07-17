@@ -27,3 +27,4 @@
 ### 19. SpringData-HATEAOS: auto expose CRUD endpoints in REST API
 ### 20. Thymeleaf: hello world web app with Thymeleaf
 ### 21. Thymeleaf-JPA: thymeleaf Web App with Spring and JPA
+![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/21-Thymeleaf-JPA/result.png?raw=true)
