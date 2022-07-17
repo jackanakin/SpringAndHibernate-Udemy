@@ -1,1 +1,0 @@
-# Thymeleaf Web App with Spring and JPA
