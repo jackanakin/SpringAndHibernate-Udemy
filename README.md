@@ -22,3 +22,4 @@
 ### 16. SpringRest: Web app with Spring REST, retrieve JSON via REST, PathVariable, Exception Handling with ControllerAdvice
 ### 17. SpringRest-CRUD: API with API Design Best Practices GET/POST/PUT/DELETE
 ![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/17-SpringREST-CRUD/result.png?raw=true)
+### 18. SpringJPA-CRUD: SpringBoot with Data JPA Repository
