@@ -4,3 +4,4 @@
 <p>3. Added CSS styles to new login page</p>
 <p>4. Added logout feature</p>
 ![alt text](https://raw.githubusercontent.com/jackanakin/SpringAndHibernate-Udemy/main/15-SpringSecurity/result2.png)
+<p>5. Manually added CSRF Token to login-form<p>
