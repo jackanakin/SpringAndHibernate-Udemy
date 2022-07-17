@@ -1,0 +1,1 @@
+### 1. SpringRest-CRUD: API with API Design Best Practices, implemented LIST http://localhost:8080/spring-crm-rest/api/customers

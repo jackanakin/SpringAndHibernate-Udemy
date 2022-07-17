@@ -20,3 +20,4 @@
 ### 15. SpringSecurity: simple MVC web app with spring security authentication, CSRF, User Roles, Restrict Access Based on User Roles with database,  password encryption with bcrypt
 ![alt text](https://github.com/jackanakin/SpringAndHibernate-Udemy/blob/main/15-SpringSecurity/result2.png?raw=true)
 ### 16. SpringRest: Web app with Spring REST, retrieve JSON via REST, PathVariable, Exception Handling with ControllerAdvice
+### 17. SpringRest-CRUD: API with API Design Best Practices GET/POST/PUT/DELETE
